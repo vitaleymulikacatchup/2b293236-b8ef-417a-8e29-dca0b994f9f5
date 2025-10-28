@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/ThemeProvider";
 import NavbarLayoutFloatingInline from '@/components/navbar/NavbarLayoutFloatingInline';
@@ -155,8 +155,7 @@ export default function Home() {
               company: "Tech Innovations",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/789822/pexels-photo-789822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Sarah Johnson portrait",
-              content: "Absolutely exceptional service and accommodations. The attention to detail is remarkable."
+              imageAlt: "Sarah Johnson portrait"
             },
             {
               id: "2",
@@ -165,8 +164,7 @@ export default function Home() {
               company: "Capital Partners",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/12885861/pexels-photo-12885861.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Michael Chen portrait",
-              content: "Perfect for business travelers. The facilities are world-class and the staff is incredibly professional."
+              imageAlt: "Michael Chen portrait"
             },
             {
               id: "3",
@@ -175,8 +173,7 @@ export default function Home() {
               company: "Luxury Travel Magazine",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/3754312/pexels-photo-3754312.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Emily Rodriguez portrait",
-              content: "One of the finest hotels I've experienced. The luxury and elegance are unmatched."
+              imageAlt: "Emily Rodriguez portrait"
             },
             {
               id: "4",
@@ -185,8 +182,7 @@ export default function Home() {
               company: "Celebrating 25 Years",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/5217854/pexels-photo-5217854.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "David and Lisa Kim portrait",
-              content: "Our anniversary stay was magical. Every moment was perfectly orchestrated for romance and luxury."
+              imageAlt: "David and Lisa Kim portrait"
             },
             {
               id: "5",
@@ -195,8 +191,7 @@ export default function Home() {
               company: "Global Consulting",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/789822/pexels-photo-789822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Amanda Foster portrait",
-              content: "The concierge service and amenities exceed expectations. A truly premium experience."
+              imageAlt: "Amanda Foster portrait"
             }
           ]}
         />
